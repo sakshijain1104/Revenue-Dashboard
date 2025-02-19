@@ -1,7 +1,7 @@
-# Revenue-Dashboard
-Power BI dashboard for AtliQ Grands, a luxury hotel chain in India, designed to provide data-driven insights for revenue management. This project includes key performance metrics, visualizations, and strategic insights to help AtliQ Grands regain market share and improve decision-making.
+## Revenue-Dashboard
+Power BI dashboard for AtliQ Grands, including key performance metrics, visualizations, and strategic insights to help AtliQ Grands regain market share and improve decision-making.
 
-Overview
+# Overview
 This repository contains a Power BI dashboard designed to help AtliQ Grands, a five-star hotel chain in India, analyze revenue trends and improve decision-making. The company has been facing challenges due to increased competition and ineffective revenue management strategies. This dashboard provides data-driven insights to help the business regain its market share.
 
 🔹 This project is a solution for a challenge on the Codebasics website:
